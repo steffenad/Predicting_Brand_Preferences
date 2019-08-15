@@ -1,4 +1,4 @@
-Classification in R - Brand Preferences
+##Classification in R - Brand Preferences
 
 Based on a customers survey conducted by an external market research firm, the task is to find out which of the brands “Sony” and “Acer” is preferred by the customers.
 
